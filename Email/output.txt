@@ -1,0 +1,20 @@
+maffu@cs.otago.ac.nz <- Invalid extension
+gerry@research.techies.co.uk
+bob.gmail.com <- Missing @ symbol
+cath@[139.80.91.50]
+bob_at_research.us@gmail.com
+hi-hi@gmail.com
+hi..hi@gmail.com <- Invalid address name
+hi!hi@gmail.com <- Invalid address name
+bob_at_research_uk_at_research@gmail.com
+hi@bob@hi@gmail.com <- Invalid address name
+hi@bob@hi@gmail.com <- Invalid address name
+hi_bob_hi@research-us.techies.com <- Invalid domain name
+cath@[139.80.91.50].com <- Invalid domain name
+cath@s.[139.80.91.50]s.com <- Invalid domain name
+cath@[139.80.91.50.31] <- Invalid extension
+cath@[139.80.sd.a] <- Invalid extension
+sa@g[mail.com <- Invalid domain name
+sa@g[mai]l.com <- Invalid domain name
+sa@g[mai023]l.com <- Invalid domain name
+sa@g{mai}l.com <- Invalid domain name
